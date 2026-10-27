@@ -20,4 +20,4 @@ venv/
 .DS_Store
 .idea/
 .vscode/
-run.log
+*.log
